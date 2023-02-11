@@ -1,0 +1,658 @@
+/*=== Artworks General Section ===*/
+.index-main {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-areas:
+      'lot-1 lot-2 lot-3 lot-4'
+      'lot-5 lot-6 lot-7 lot-8'
+      'lot-9 lot-10 lot-11 lot-12'
+      'lot-13 lot-14 lot-15 lot-16'
+      'lot-17 lot-18 lot-19 lot-20'
+      'lot-21 lot-22 lot-23 lot-24'
+      'lot-25 lot-26 lot-27 lot-28'
+      'lot-29 lot-30 lot-31 lot-32'
+      'lot-33 lot-34 lot-35 lot-36'
+      'lot-37 lot-38 lot-39 google-form';
+  grid-auto-columns: minmax(0, 1fr);
+  grid-auto-flow: column;    
+}
+
+
+/*=== Artworks Lots Section ===*/
+/* Individual Lots */
+#lot-1 {
+  grid-area: lot-1;
+  height: 550px;
+}
+#lot-im-1 {
+  background: url(https://drive.google.com/uc?id=11oWOur1pQDRpK8gTL0lh-d3wPYPpOVjv);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-2 {
+  grid-area: lot-2;
+  height: 550px;
+}
+#lot-im-2 {
+  /* background: url(../pictures/IMG_5889.jpg); */
+  background: url(https://drive.google.com/uc?id=1GAeFlTTiCQN0uax6NvbMc0svNOf_whWu);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-3 {
+  grid-area: lot-3;
+  height: 550px;
+}
+#lot-im-3 {
+  /* background: url(../pictures/IMG_5890.jpg); */
+  background: url(https://drive.google.com/uc?id=1xV9wkFxRsP-2snqgOEvCfuY3UNlxlY4E);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-4 {
+  grid-area: lot-4;
+  height: 550px;
+}
+#lot-im-4 {
+  /* background: url(../pictures/IMG_5892.JPG); */
+  background: url(https://drive.google.com/uc?id=1bMjh7OY4LcMQCXe0vdlmYdknhrPCRbA9);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-5 {
+  grid-area: lot-5;
+  height: 550px;
+}
+#lot-im-5 {
+  /* background: url(../pictures/IMG_5893.JPG); */
+  background: url(https://drive.google.com/uc?id=15rP_zIvkx6f1821fEsGSpHyzuY-32667);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-6 {
+  grid-area: lot-6;
+  height: 550px;
+}
+#lot-im-6 {
+  /* background: url(../pictures/IMG_5894.JPG); */
+  background: url(https://drive.google.com/uc?id=18JMgcNUq1y1Ka0XAMmDAVSXU3MIysIe-);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-7 {
+  grid-area: lot-7;
+  height: 550px;
+}
+#lot-im-7 {
+  /* background: url(../pictures/IMG_5896.jpg); */
+  background: url(https://drive.google.com/uc?id=1RzJJ9_yRkLMzDLQHhkA50YEq4lOn1A40);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-8 {
+  grid-area: lot-8;
+  height: 550px;
+}
+#lot-im-8 {
+  /* background: url(../pictures/IMG_5897.JPG); */
+  background: url(https://drive.google.com/uc?id=1fr_yD6mc7HKwTjenA94lZFp6RFng1IYE);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-9 {
+  grid-area: lot-9;
+  height: 550px;
+}
+#lot-im-9 {
+  /* background: url(../pictures/IMG_5898.jpg); */
+  background: url(https://drive.google.com/uc?id=1tvWgLSBOhAhHDtfXI0adIUZ4lsU4kCrc);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-10 {
+  grid-area: lot-10;
+  height: 550px;
+}
+#lot-im-10 {
+  /* background: url(../pictures/IMG_5930.JPG); */
+  background: url(https://drive.google.com/uc?id=1c0opfIcfV_MfseOI0DjdpGLJ-OqlCAaB);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-11 {
+  grid-area: lot-11;
+  height: 550px;
+}
+#lot-im-11 {
+  /* background: url(../pictures/IMG_5900.JPG); */
+  background: url(https://drive.google.com/uc?id=1q1ptP3zVlC2pVR1AgC-nLz8ANO4G6qw2);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-12 {
+  grid-area: lot-12;
+  height: 550px;
+}
+#lot-im-12 {
+  /* background: url(../pictures/IMG_5901.JPG); */
+  background: url(https://drive.google.com/uc?id=1sq4zC2fIVF9Db9-pDCApLVd3Y4i9ltQv);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-13 {
+  grid-area: lot-13;
+  height: 550px;
+}
+#lot-im-13 {
+  /* background: url(../pictures/IMG_5902.JPG); */
+  background: url(https://drive.google.com/uc?id=1ggGa1U5TJbcKW6wYf9vB742TPzaZU6rr);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-14 {
+  grid-area: lot-14;
+  height: 550px;
+}
+#lot-im-14 {
+  /* background: url(../pictures/IMG_5903.JPG); */
+  background: url(https://drive.google.com/uc?id=14OuYJtLMm8VezQf2i7BLlu2_1ZfnWKaJ);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-15 {
+  grid-area: lot-15;
+  height: 550px;
+}
+#lot-im-15 {
+  /* background: url(../pictures/IMG_5904.JPG); */
+  background: url(https://drive.google.com/uc?id=1_7kUt-WoR3v-o22FJG0MNtJhUt1wJ9LX);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-16 {
+  grid-area: lot-16;
+  height: 550px;
+}
+#lot-im-16 {
+  /* background: url(../pictures/IMG_5905.jpg); */
+  background: url(https://drive.google.com/uc?id=1kTv6vE1HLI_2z8IU8HKri2f2cf3yOxwa);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-17 {
+  grid-area: lot-17;
+  height: 550px;
+}
+#lot-im-17 {
+  /* background: url(../pictures/IMG_5907.jpg); */
+  background: url(https://drive.google.com/uc?id=1V3_Z8UE_EomGw8OXUjC6547jAvY6zrJR);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-18 {
+  grid-area: lot-18;
+  height: 550px;
+}
+#lot-im-18 {
+  /* background: url(../pictures/IMG_5908.jpg); */
+  background: url(https://drive.google.com/uc?id=1aVNvef1ITH6bI7WcU0nzDP5VRv-f7ZjH);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-19 {
+  grid-area: lot-19;
+  height: 550px;
+}
+#lot-im-19 {
+  /* background: url(../pictures/IMG_5899.JPG); */
+  background: url(https://drive.google.com/uc?id=1MzSB1yjq0uqqGDcFxiaSZQ5ypvd59iBE);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-20 {
+  grid-area: lot-20;
+  height: 550px;
+}
+#lot-im-20 {
+  /* background: url(../pictures/IMG_5910.JPG); */
+  background: url(https://drive.google.com/uc?id=1xPpjFAplXhOMa0GC-zvh66VQnfMvo3DN);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-21 {
+  grid-area: lot-21;
+  height: 550px;
+}
+#lot-im-21 {
+  /* background: url(../pictures/IMG_5911.JPG); */
+  background: url(https://drive.google.com/uc?id=1Edb9nGavqGsResvbMx1vMzQNH9dZgYL1);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-22 {
+  grid-area: lot-22;
+  height: 550px;
+}
+#lot-im-22 {
+  /* background: url(../pictures/IMG_5913.JPG); */
+  background: url(https://drive.google.com/uc?id=1lBSF_mN-sG4omla4zg_YQDG6tnDqr2Vt);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-23 {
+  grid-area: lot-23;
+  height: 550px;
+}
+#lot-im-23 {
+  /* background: url(../pictures/IMG_5915.JPG); */
+  background: url(https://drive.google.com/uc?id=1Z9lEdJNATowjbBcTbywciWtN2-1EFxYA);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-24 {
+  grid-area: lot-24;
+  height: 550px;
+}
+#lot-im-24 {
+  /* background: url(../pictures/IMG_5916.JPG); */
+  background: url(https://drive.google.com/uc?id=1Pd0sNQX9wMUTp6Rgefvmx1pjtbMtAQHH);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-25 {
+  grid-area: lot-25;
+  height: 550px;
+}
+#lot-im-25 {
+  /* background: url(../pictures/IMG_5917.JPG); */
+  background: url(https://drive.google.com/uc?id=124_1B5lC2TR_wmH2WmtgmvjbUcWdt5r8);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-26 {
+  grid-area: lot-26;
+  height: 550px;
+}
+#lot-im-26 {
+  /* background: url(../pictures/IMG_5918.JPG); */
+  background: url(https://drive.google.com/uc?id=1e8jwCWndJpVuqXupY5ghz-3LH7eCr2Sl);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-27 {
+  grid-area: lot-27;
+  height: 550px;
+}
+#lot-im-27 {
+  /* background: url(../pictures/IMG_5919.JPG); */
+  background: url(https://drive.google.com/uc?id=1aENhaBHFh4IhxLPptfRpbOULrA6f6cfr);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-28 {
+  grid-area: lot-28;
+  height: 550px;
+}
+#lot-im-28 {
+  /* background: url(../pictures/IMG_5920.JPG); */
+  background: url(https://drive.google.com/uc?id=1uKPm2zCI6tOeQMgPPqmS5IBfnM73Vqae);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-29 {
+  grid-area: lot-29;
+  height: 550px;
+}
+#lot-im-29 {
+  /* background: url(../pictures/IMG_5921.JPG); */
+  background: url(https://drive.google.com/uc?id=1vmqT3LyBd4Wvoh2EbvlWNtfmgw3cNPQR);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-30 {
+  grid-area: lot-30;
+  height: 550px;
+}
+#lot-im-30 {
+  /* background: url(../pictures/IMG_5923.JPG); */
+  background: url(https://drive.google.com/uc?id=1sfPi05K8psFiUWFqc-DnTOCnunb4_K3F);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-31 {
+  grid-area: lot-31;
+  height: 550px;
+}
+#lot-im-31 {
+  /* background: url(../pictures/IMG_5924.JPG); */
+  background: url(https://drive.google.com/uc?id=14M6w4LsoYkTFDh9gG84Twec_icTPp9MQ);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-32 {
+  grid-area: lot-32;
+  height: 550px;
+}
+#lot-im-32 {
+  /* background: url(../pictures/IMG_5926.JPG); */
+  background: url(https://drive.google.com/uc?id=1ykmT8LBJmXUFvIhqVhyKkR0Kh5eH3Bcf);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-33 {
+  grid-area: lot-33;
+  height: 550px;
+}
+#lot-im-33 {
+  /* background: url(../pictures/IMG_5927.JPG); */
+  background: url(https://drive.google.com/uc?id=1eM2Eh8hrqGOWNs1YTVPGapK4DcRqUG4l);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-34 {
+  grid-area: lot-34;
+  height: 550px;
+}
+#lot-im-34 {
+  /* background: url(../pictures/IMG_5929.JPG); */
+  background: url(https://drive.google.com/uc?id=1bxVLYYGRJvAngDDkFeCiDtcf7t8XAdGC);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-35 {
+  grid-area: lot-35;
+  height: 550px;
+}
+#lot-im-35 {
+  /* background: url(../pictures/IMG_5932.JPG); */
+  background: url(https://drive.google.com/uc?id=19hwvOstzSj1h-_D5gpiFWkCJWv23GaRG);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-36 {
+  grid-area: lot-36;
+  height: 550px;
+}
+#lot-im-36 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1WcUj0ZVBp-z2rgOOyJBmAsxtghsc6d0w);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-37 {
+  grid-area: lot-37;
+  height: 550px;
+}
+#lot-im-37 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1fGCPSDaNxmjyHj8Ay4vBi22Lzql_cwCB);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-38 {
+  grid-area: lot-38;
+  height: 550px;
+}
+#lot-im-38 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1zoTGrtXYD-MLPa0T0R7bjvqRv6heNVoq);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-39 {
+  grid-area: lot-39;
+  height: 550px;
+}
+#lot-im-39 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1vtmxGRT4yHcXC-_YbmR4FKxl_TNSWTmz);
+  background-size: cover;
+  background-position: center;
+}
+
+#google-form {
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+  grid-area: google-form;
+  height: 550px;
+  width: 100%;
+  background-color: white;
+}
+
+/* General Lots */
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.lot {
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+  background-color: #5A8559;
+  color: #E3DED2;
+}
+.lot-inner-filler {
+  height: 100%;
+  width: 100%;
+}
+.lot-image {
+  border-radius: 3px 3px 0 0;
+  height: 57%;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+.image-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 2px 2px 2px 2px;
+}
+.lot-info {
+  border-radius: 0 0 3px 3px;
+  height: 43%;
+  padding: 0 1rem 1rem 1rem;
+}
+
+.lot-text {
+  top: 0; bottom: 0; left: 0; right: 0;
+  margin: auto;
+  /*text-align: center*/
+}
+.lot-spacer {
+  height: 10%;
+}
+.lot-number {
+  height: 5%;
+  font-size: 1rem;
+}
+.number-text {
+  height: 1.2rem;
+}
+.lot-title {
+  height: 30%;
+  font-size: 1.6rem;
+  font-family: var(--fancy-font);
+  color: #FDD883;
+  font-weight: 500;
+}
+.title-text {
+  height: 2.4rem;
+}
+.lot-artist {
+  height: 20%;
+  font-size: 1.4rem;
+  font-family: var(--fancy-font);
+}
+.artist-text {
+  height: 1.4rem;
+  font-size: 1rem;
+}
+.lot-description {
+  height: 15%;
+  font-size: 1.4rem;
+  font-family: var(--fancy-font);
+}
+.description-text {
+  height: 1.4rem;
+  font-size: 1rem;
+}
+.lot-price {
+  height: 20%;
+  font-size: 1.4rem;
+  font-family: var(--fancy-font);
+}
+
+/*=== Home Page Additional Section ===*/
+/* Home Page Media Queries */
+@media (max-width: 1351px) {
+  .index-main {
+    grid-template-areas:
+    'lot-1 lot-2'
+    'lot-3 lot-4'
+    'lot-5 lot-6'
+    'lot-7 lot-8'
+    'lot-9 lot-10'
+    'lot-11 lot-12'
+    'lot-13 lot-14'
+    'lot-15 lot-16'
+    'lot-17 lot-18'
+    'lot-19 lot-20'
+    'lot-21 lot-22'
+    'lot-23 lot-24'
+    'lot-25 lot-26'
+    'lot-27 lot-28'
+    'lot-29 lot-30'
+    'lot-31 lot-32'
+    'lot-33 lot-34'
+    'lot-35 lot-36'
+    'lot-37 lot-38'
+    'lot-39 google-form';
+  }
+}
+@media (max-width: 768px) {
+  .index-main {
+    grid-template-areas:
+    'lot-1'
+    'lot-2'
+    'lot-3'
+    'lot-4'
+    'lot-5'
+    'lot-6'
+    'lot-7'
+    'lot-8'
+    'lot-9'
+    'lot-10'
+    'lot-11'
+    'lot-12'
+    'lot-13'
+    'lot-14'
+    'lot-15'
+    'lot-16'
+    'lot-17'
+    'lot-18'
+    'lot-19'
+    'lot-20'
+    'lot-21'
+    'lot-22'
+    'lot-23'
+    'lot-24'
+    'lot-25'
+    'lot-26'
+    'lot-27'
+    'lot-28'
+    'lot-29'
+    'lot-30'
+    'lot-31'
+    'lot-32'
+    'lot-33'
+    'lot-34'
+    'lot-35'
+    'lot-36'
+    'lot-37'
+    'lot-38'
+    'lot-39'
+    'google-form';
+  }
+}
+@media (max-width: 584px) {
+  .index-main {
+    grid-template-areas:
+    'lot-1'
+    'lot-2'
+    'lot-3'
+    'lot-4'
+    'lot-5'
+    'lot-6'
+    'lot-7'
+    'lot-8'
+    'lot-9'
+    'lot-10'
+    'lot-11'
+    'lot-12'
+    'lot-13'
+    'lot-14'
+    'lot-15'
+    'lot-16'
+    'lot-17'
+    'lot-18'
+    'lot-19'
+    'lot-20'
+    'lot-21'
+    'lot-22'
+    'lot-23'
+    'lot-24'
+    'lot-25'
+    'lot-26'
+    'lot-27'
+    'lot-28'
+    'lot-29'
+    'lot-30'
+    'lot-31'
+    'lot-32'
+    'lot-33'
+    'lot-34'
+    'lot-35'
+    'lot-36'
+    'lot-37'
+    'lot-38'
+    'lot-39'
+    'google-form';
+  }
+}
