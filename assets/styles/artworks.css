@@ -12,7 +12,7 @@
       'lot-25 lot-26 lot-27 lot-28'
       'lot-29 lot-30 lot-31 lot-32'
       'lot-33 lot-34 lot-35 lot-36'
-      'google-form google-form google-form google-form';
+      'lot-37 google-form google-form google-form';
   grid-auto-columns: minmax(0, 1fr);
   grid-auto-flow: column;    
 }
@@ -124,7 +124,7 @@
 }
 #lot-im-10 {
   /* background: url(../pictures/IMG_5930.JPG); */
-  background: url(https://drive.google.com/uc?id=1c0opfIcfV_MfseOI0DjdpGLJ-OqlCAaB);
+  background: url(https://drive.google.com/uc?id=1YraYLKzV80Vp3AufX8YiK-y0MdlvtKtc);
   background-size: cover;
   background-position: center;
 }
@@ -135,7 +135,7 @@
 }
 #lot-im-11 {
   /* background: url(../pictures/IMG_5900.JPG); */
-  background: url(https://drive.google.com/uc?id=1q1ptP3zVlC2pVR1AgC-nLz8ANO4G6qw2);
+  background: url(https://drive.google.com/uc?id=1k37qfr9-Wya_JRvlaqF6854eUlSbGoYq);
   background-size: cover;
   background-position: center;
 }
@@ -415,6 +415,17 @@
   background-position: center;
 }
 
+#lot-37 {
+  grid-area: lot-37;
+  height: 550px;
+}
+#lot-im-37 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1t023uk00nMoRE7ZOvfWMUhi1mYRcPW_S);
+  background-size: cover;
+  background-position: center;
+}
+
 #google-form {
   border-radius: 3px 3px 3px 3px;
   box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
@@ -506,6 +517,11 @@
   font-family: var(--fancy-font);
 }
 
+.popular {
+  font-weight: bold;
+  color: #e2725b;
+}
+
 /*=== Home Page Additional Section ===*/
 /* Home Page Media Queries */
 @media (max-width: 1351px) {
@@ -529,7 +545,7 @@
     'lot-31 lot-32'
     'lot-33 lot-34'
     'lot-35 lot-36'
-    'google-form google-form';
+    'lot-37 google-form';
   }
 }
 @media (max-width: 768px) {
@@ -571,6 +587,7 @@
     'lot-34'
     'lot-35'
     'lot-36'
+    'lot-37'
     'google-form';
   }
 }
@@ -613,6 +630,7 @@
     'lot-34'
     'lot-35'
     'lot-36'
+    'lot-37'
     'google-form';
   }
 }
