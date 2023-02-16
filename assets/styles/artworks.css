@@ -12,7 +12,8 @@
       'lot-25 lot-26 lot-27 lot-28'
       'lot-29 lot-30 lot-31 lot-32'
       'lot-33 lot-34 lot-35 lot-36'
-      'lot-37 google-form google-form google-form';
+      'lot-37 lot-38 lot-39 lot-40'
+      'lot-41 google-form google-form google-form';
   grid-auto-columns: minmax(0, 1fr);
   grid-auto-flow: column;    
 }
@@ -426,6 +427,50 @@
   background-position: center;
 }
 
+#lot-38 {
+  grid-area: lot-38;
+  height: 550px;
+}
+#lot-im-38 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1DlaaPVOVNF-qyqjk2BkKh9L8s1suaTf8);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-39 {
+  grid-area: lot-39;
+  height: 550px;
+}
+#lot-im-39 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1Yc45j531Sd_4AZ1a5hue7cm7UKiS7agy);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-40 {
+  grid-area: lot-40;
+  height: 550px;
+}
+#lot-im-40 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1Ai0ZV9-fHaU0BCjFlGGr6M1KN4eCZ39U);
+  background-size: cover;
+  background-position: center;
+}
+
+#lot-41 {
+  grid-area: lot-41;
+  height: 550px;
+}
+#lot-im-41 {
+  /* background: url(../pictures/IMG_5933.JPG); */
+  background: url(https://drive.google.com/uc?id=1GdiU5msLrFIq0GlOYJB3rfZe0Gykkpiz);
+  background-size: cover;
+  background-position: center;
+}
+
 #google-form {
   border-radius: 3px 3px 3px 3px;
   box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
@@ -545,7 +590,9 @@
     'lot-31 lot-32'
     'lot-33 lot-34'
     'lot-35 lot-36'
-    'lot-37 google-form';
+    'lot-37 lot-38'
+    'lot-39 lot-40'
+    'lot-41 google-form';
   }
 }
 @media (max-width: 768px) {
@@ -588,6 +635,10 @@
     'lot-35'
     'lot-36'
     'lot-37'
+    'lot-38'
+    'lot-39'
+    'lot-40'
+    'lot-41'
     'google-form';
   }
 }
@@ -631,6 +682,10 @@
     'lot-35'
     'lot-36'
     'lot-37'
+    'lot-38'
+    'lot-39'
+    'lot-40'
+    'lot-41'
     'google-form';
   }
 }
